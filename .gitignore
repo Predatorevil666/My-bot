@@ -1,0 +1,8 @@
+settings.py
+*.log
+__pycache__/
+*.txt
+env/
+.idea/
+Test.py
+*.txt
